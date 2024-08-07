@@ -57,7 +57,7 @@ To run this project locally, follow these steps:
 
 ## Deployment
 
-You can view the live version of the Sorting Visualizer [here](https://sorting-visualizer-c38gjl6ew-piyushs-projects-815384e6.vercel.app/).
+You can view the live version of the Sorting Visualizer [here](https://sorting-visualizer-gl2gnhk6h-piyushs-projects-815384e6.vercel.app/).
 
 ## Contributing
 
